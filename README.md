@@ -1,4 +1,4 @@
---><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 
 
@@ -59,36 +59,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <img src="https://github-readme-stats.vercel.app/api?username=Prerit-05&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Prerit-05's GitHub stats">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prerit-05&theme=highcontrast&hide_border=true" alt="Prerit-05's Profile Details">
-
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Prerit-05/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prerit-05&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Prerit-05/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prerit-05&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Prerit-05/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prerit-05&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Prerit-05/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prerit-05&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ### GitHub Contribution Chart
 <a href="https://github.com/Prerit-05">
