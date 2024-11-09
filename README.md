@@ -8,21 +8,6 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center">
-      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
-      </a>
-    </td>
    <td align="center">
   <a href="https://github.com/Prerit-05" target="_blank">
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FPrerit-05&subtitle=Prerit-05&size=square" alt="Prerit-05">
@@ -157,25 +142,15 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h2 align="center">Socials Stats</h2>
 <div align="center">
   <div align="center">
-    <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+    <a href="https://www.instagram.com/_prerit_05_/" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
     </a>
     <h3>
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+      <a href="https://www.instagram.com/_prerit_05_/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
         Follow Me on Instagram
       </a>
     </h3>
   </div>
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <div>
-          <img src="https://img.shields.io/badge/Instagram-101%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-1865%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
-        </div>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div align="center">
