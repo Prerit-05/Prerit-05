@@ -556,24 +556,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 -->
 
 
-<h2 align="center">📫 Let's Connect!</h2>
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <a href="mailto:Prerit-05h3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=Prerit-05h3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-  <a href="https://wa.me/917028352298" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028352298&size=square" alt="India-+91-702-835-2298" style="margin: 10px;">
-  </a>
-</td>
-
-  </tr>
-</table>
-
 
 
 <br>
